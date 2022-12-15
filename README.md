@@ -28,8 +28,7 @@
       src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg"
       alt="git" width="40" height="40" /> </a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img 
     src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"
-      alt="visual studio code" width="40" height="40" /> </a> <a href="https://www.docker.com/" target="_blank"
-    rel="noreferrer"> <img
+      
      
       
 <h3>Statistical Data :-</h3>
