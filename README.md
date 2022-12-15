@@ -11,7 +11,7 @@
 <br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://dotnet.microsoft.com/en-us//" target="_blank" rel="noreferrer"> <img
-      src="[https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnhfdv7x5DtC68CLkSEYUiS3Ke_otVrzG7n30dvek5&s)"
+      src="![image](https://user-images.githubusercontent.com/101628018/207971979-72a02628-fe09-4a6f-95c6-a4e17cb382db.png)"
       alt="Dotnet docs" width="40" height="40" /> </a> </a> <a href="https://dotnet.microsoft.com/en-us//" target="_blank" rel="noreferrer">
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
     <img src="https://cdn.cdnlogo.com/logos/c/27/c.svg"
