@@ -1,17 +1,17 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=220&text=ELBEK%20KHUSHBOQOF%20&desc=.NET%20SOFTWARE%20ENGINEER🙂&animation=fadeIn&fontSize=20&fontAlign=74&fontAlignY=38&descAlign=77&color=d0b0ff)
+![header](https://capsule-render.vercel.app/api?type=waving&height=220&text=Anvarjon%20Nosirov%20&desc=Java%20BECKEND%20DEVELOPER🙂&animation=fadeIn&fontSize=20&fontAlign=74&fontAlignY=38&descAlign=77&color=d0b0ff)
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-- 🌱 I am currently a .Net developer
-- 📫 How to reach me: [telegram](https://t.me/khushboqof), [linkedin](https://www.linkedin.com/in/elbek-khushboqoff-095779239/)
-- ⚙️ My specialty : `.net`, `asp.net`, `postgresql`
+- 🌱 I am currently a Java developer
+- 📫 How to reach me: [telegram](https://t.me/Programis_2002)
+- ⚙️ My specialty : `Java, `postgresql`
 - ⚡ Fun fact :- Games and Music🎵 are the reasons to live.
 <br>
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://dotnet.microsoft.com/en-us//" target="_blank" rel="noreferrer"> <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png"
+      src="[https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnhfdv7x5DtC68CLkSEYUiS3Ke_otVrzG7n30dvek5&s)"
       alt="Dotnet docs" width="40" height="40" /> </a> </a> <a href="https://dotnet.microsoft.com/en-us//" target="_blank" rel="noreferrer">
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
     <img src="https://cdn.cdnlogo.com/logos/c/27/c.svg"
