@@ -14,7 +14,7 @@
       src="![image](https://user-images.githubusercontent.com/101628018/207971979-72a02628-fe09-4a6f-95c6-a4e17cb382db.png)"
       alt="Dotnet docs" width="40" height="40" /> </a> </a> <a href="https://dotnet.microsoft.com/en-us//" target="_blank" rel="noreferrer">
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.cdnlogo.com/logos/c/27/c.svg"
+    <img src="https://user-images.githubusercontent.com/101628018/207972245-b6bca2de-99e3-4c8b-b676-ec282aa7532d.png"
       alt="c#" width="40" height="40" /> </a> <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"
   <a href="https://www.learn-c.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png"
