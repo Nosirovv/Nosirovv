@@ -12,7 +12,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://dotnet.microsoft.com/en-us//" target="_blank" rel="noreferrer"> <img
       src="https://user-images.githubusercontent.com/101628018/207971979-72a02628-fe09-4a6f-95c6-a4e17cb382db.png"
-      alt="Dotnet docs" width="40" height="40" /> </a> </a> <a href="[https://dotnet.microsoft.com/en-us//](https://www.java.com/ru/)" target="_blank" rel="noreferrer">
+      alt="Dotnet docs" width="40" height="40" /> </a> </a> <a href="https://www.java.com/ru/" target="_blank" rel="noreferrer">
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
     <img src="https://user-images.githubusercontent.com/101628018/207972245-b6bca2de-99e3-4c8b-b676-ec282aa7532d.png"
       alt="c#" width="40" height="40" /> </a> <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"
