@@ -10,7 +10,7 @@
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dotnet.microsoft.com/en-us//" target="_blank" rel="noreferrer"> <img
+<p align="left"> <a href="https://www.java.com/ru/" target="_blank" rel="noreferrer"> <img
       src="https://user-images.githubusercontent.com/101628018/207971979-72a02628-fe09-4a6f-95c6-a4e17cb382db.png"
       alt="Java docs" width="40" height="40" /> </a> </a> <a href="https://www.java.com/ru/" target="_blank" rel="noreferrer"
   <a href="https://www.learn-c.org/" target="_blank" rel="noreferrer">
